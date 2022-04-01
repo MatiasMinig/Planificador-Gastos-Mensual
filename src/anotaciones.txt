@@ -1,0 +1,5 @@
+Rafce 
+
+Para utilizar la libreria : npm i react-swipeable-list 
+luego puedo importar algunos elementos y tambien instalar npm i prop-types
+para instalar grafica circular npm i react-circular-progressbar 
